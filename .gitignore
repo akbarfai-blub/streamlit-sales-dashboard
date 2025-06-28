@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+__pycache__/
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# File sensitif (jika ada)
+*.env
+credentials.json
+
+# Dataset besar yang tidak seharusnya di-upload
+# *.csv
